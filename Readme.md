@@ -1,7 +1,11 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Борис Клигман](https://up.htmlacademy.ru/htmlcss/13/user/194296).
+<<<<<<< HEAD
 * Наставник: [Алексей Белов](https://up.htmlacademy.ru/htmlcss/13/user/96038).
+=======
+* Наставник: [Алексей Белов](https://htmlacademy.ru/profile/id96038).
+>>>>>>> origin/master
 
 ---
 
